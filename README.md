@@ -90,7 +90,7 @@ My wonderful Physics teacher!
 
 Adafruit for wonderful documentation
 
-GreatScott! for getting me interested in Arduinos
+[GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) for getting me interested in Arduinos
 
 
 ## Licensing
