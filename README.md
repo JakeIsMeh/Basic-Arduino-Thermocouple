@@ -1,6 +1,5 @@
 # Basic Arduino Thermocouple
 
----
 
 This project was born out of my wonderful physics teacher's desire to intergrate the ALP (Applied Learning Programme) into his classes.
 
@@ -12,7 +11,6 @@ I got it working fairly quickly, but it was quickly forgotten. (and somebody rip
 
 So, here I am, almost exactly a year later, documenting this, as my last gift to my school. (and bolstering my EAE)
 
----
 
 ## Wiring
 
@@ -28,7 +26,6 @@ Requirements:
 
 ![schematic](schematic.svg)
 
----
 
 ## Loading Software
 
@@ -78,7 +75,6 @@ Tools > Port
 
 Upload. (The arrow pointing left)
 
----
 
 ## Usage
 
@@ -87,7 +83,6 @@ Tools > Serial Monitor
 
 At the bottom right, change `9600 baud` to `19200 baud`.
 
----
 
 ## Credits
 
@@ -97,7 +92,6 @@ Adafruit for wonderful documentation
 
 GreatScott! for getting me interested in Arduinos
 
----
 
 ## Licensing
 
