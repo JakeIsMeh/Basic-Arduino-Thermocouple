@@ -1,13 +1,13 @@
 # Basic Arduino Thermocouple
 
 
-This project was born out of my wonderful physics teacher's desire to intergrate the ALP (Applied Learning Programme) into his classes.
+This project was born out of my wonderful physics teacher's desire to intergrate ALP into his classes.
 
-He had gotten himself a generic MAX6675-based K-Type Thermocouple kit off of Taobao so he could measure the live temperature of things when doing heat-related topics, but could never find enough time to research and set up the whole contraption himself. 
+He had gotten himself a generic MAX6675-based K-Type Thermocouple kit off of Taobao so he could measure the live temperature of objects when doing heat-related topics, but could never find enough time to research and set up the whole contraption himself. 
 
 So, he approached me to help him with this.
 
-I got it working fairly quickly, but it was quickly forgotten. (and somebody ripped the whole thing apart!)
+I got it working fairly quickly, but it was quickly forgotten. (and somebody else ripped the whole thing apart!)
 
 So, here I am, almost exactly a year later, documenting this, as my last gift to my school. (and bolstering my EAE)
 
